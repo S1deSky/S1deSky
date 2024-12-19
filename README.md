@@ -7,7 +7,7 @@
 - **Other:** [many]
 
 ## GitHub Stats
-![S1deSky's GitHub stats](https://github-readme-stats.vercel.app/api?username=S1deSky&show_icons=true&theme=radical)
+![S1deSky's GitHub stats](https://github-readme-stats.vercel.app/api?username=S1deSky&include_all_commits=true&show_icons=true&theme=radical)
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S1deSky&layout=compact&theme=radical)
